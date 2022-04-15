@@ -1,0 +1,13 @@
+Conforme o resultado do Job no GCP, 
+as 10 palavras mais usadas no livro, são:
+
+1º - 'the', 4066 vezes
+2º - 'and', 2969 vezes
+3º - 'of', 2746 vezes
+4º - 'I', 2719 vezes
+5º - 'to', 2144 vezes
+6º - 'my', 1631 vezes
+7º - 'a', 1394 vezes
+8º - 'in', 1129 vezes
+9º - 'was', 994 vezes
+10º - 'that', 986 vezes
